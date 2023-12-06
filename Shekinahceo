@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shekinah's CEO</title>
+    <style>
+        body {
+            font-family: 'CatchyFont', sans-serif;
+            text-align: center;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        strong {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Shekinah's CEO</h1>
+    <img src="1-30.jpg" alt="Image 1">
+    <img src="1-32.jpg" alt="Image 2">
+    <img src="1-31.jpg" alt="Image 3">
+    
+    <p><strong>Mali ko ay 4, 9, 30, 35, 36, 42, 48, 49</strong></p>
+</body>
+</html>
